@@ -1,0 +1,7 @@
+Anatomical_Source,Experiment,Experiment_Internal_ID,NCBI_GeneID,Replicate,Sex,Species,Specimen,Specimen_Type,Stage,Age,Starts_At,Ends_At,TPM
+Kidney organoid,14-3PY4,C32_Day0_kid_diff,1,14-3PZ8,,Homo sapiens,14-3PZ6,cultured cell population,,organoid day 0,,,0.20838279
+Kidney organoid,14-3PY4,C32_Day0_kid_diff,1,14-3PZA,,Homo sapiens,14-3R74,cultured cell population,,organoid day 0,,,0.72499657
+Kidney organoid,14-3PY4,C32_Day0_kid_diff,1,14-3PZC,,Homo sapiens,14-3R76,cultured cell population,,organoid day 0,,,0.83789754
+Kidney organoid,14-3PY6,C32_Day4_kidney_differentiation_protocol,1,14-3PZM,,Homo sapiens,14-3QST,cultured cell population,,organoid day 4,,,2.289655
+Kidney organoid,14-3PY6,C32_Day4_kidney_differentiation_protocol,1,14-3PZP,,Homo sapiens,14-3R78,cultured cell population,,organoid day 4,,,2.1101089
+Kidney organoid,14-3PY6,C32_Day4_kidney_differentiation_protocol,1,14-3PZR,,Homo sapiens,14-3R7A,cultured cell population,,organoid day 4,,,1.7675023
