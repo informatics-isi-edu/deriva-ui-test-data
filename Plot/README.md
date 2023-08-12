@@ -4,11 +4,11 @@ In this folder, we have included the test data for fetching the data from file f
 
 The following are the included files:
 
-## violin-json
+## violin.json
 
 Test data for violin plot in json format
 
-## violin-csv
+## violin.csv
 
 Test data for violin plot in csv format
 
@@ -17,11 +17,11 @@ https://dev.gudmap.org/ermrest/catalog/2/attributegroup/M:=RNASeq:Replicate_Expr
 ```
 (url for this test data. Use `?accept=csv` at the end of url to download test data in csv format)
 
-## gudmap-json (This file has no test data as of now)
+## gudmap.json (This file has no test data as of now)
 
 Commmon test data for `gudmap-todate-bar plot`,`gudmap-todate-pie`,`gudmap-todate-bar-swapped` & `gudmap-todate-summary-responsive` in json format
 
-## gudmap-csv (This file has no test data as of now)
+## gudmap.csv (This file has no test data as of now)
 
 Commmon test data for `gudmap-todate-bar plot`,`gudmap-todate-pie`,`gudmap-todate-bar-swapped` & `gudmap-todate-summary-responsive` in csv format
 
@@ -30,11 +30,11 @@ https://dev.gudmap.org/ermrest/catalog/2/entity/M:=Dashboard:Release_Status/Cons
 ```
 (url for this test data. Use `?accept=csv` at the end of url to download test data in csv format)
 
-## scatter-json
+## scatter.json
 
 Test data for `scatter` plot in json format
 
-## scatter-csv
+## scatter.csv
 
 Test data for `scatter` plot in csv format
 
@@ -43,11 +43,11 @@ https://dev.gudmap.org/ermrest/catalog/2/attributegroup/M:=Gene_Expression:Speci
 ```
 (url for this test data. Use `?accept=csv` at the end of url to download test data in csv format)
 
-## histogram-json
+## histogram.json
 
 Test data for `specimen-histogram-vertical` & `specimen-histogram-horizontal` plot in json format
 
-## histogram-csv
+## histogram.csv
 
 Test data for `specimen-histogram-vertical` & `specimen-histogram-horizontal` plot in csv format
 
@@ -56,11 +56,11 @@ https://dev.gudmap.org/ermrest/catalog/2/entity/Gene_Expression:Specimen@sort(RC
 ```
 (url for this test data. Use `?accept=csv` at the end of url to download test data in csv format)
 
-## heatmap-json
+## heatmap.json
 
 Test data for `heatmap` plot in json format
 
-## heatmap-csv
+## heatmap.csv
 
 Test data for `heatmap` plot in csv format
 
